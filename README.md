@@ -1,14 +1,21 @@
-![image](./github.png "Hello,") 
+![image](https://dev-to-uploads.s3.amazonaws.com/i/payz213mcwsxvlk0bxyz.png) 
 
 
-I am 18 year old JavaScript Developer, huge fan of **SpaceX** and **High Energy Physics**.
+## Hemant Joshi (he/him)
 
-```html
-Mern Stack, 
-_
-System Design,
-_
-Micro Services,
-_
-SEO,
-```
+Hii,
+I am 18 year old JavaScript Developer, huge fan of *SpaceX*, *High Energy Physics* and *Machine Learning* exhaust. I am currently working in MERN Stack, in my free time i sync my self with *Competetive Programming*.
+
+## Featured Skills,
+>{
+Mern Stack,
+SEO's,
+Micro-Services,
+System Design
+}
+
+
+
+
+
+
