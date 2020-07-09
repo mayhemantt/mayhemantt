@@ -8,7 +8,7 @@ I am 18 year old JavaScript Developer, huge fan of *SpaceX*, *High Energy Physic
 
 ## Featured Skills,
 
->Mern Stack,<br>
+Mern Stack,<br>
 SEO's,<br>
 Micro-Services,<br>
 System Design
