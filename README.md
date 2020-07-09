@@ -4,7 +4,9 @@
 ## Hemant Joshi (he/him)
 
 Hii,
-I am 18 year old JavaScript Developer, huge fan of *SpaceX*, *High Energy Physics* and *Machine Learning* exhaust. I am currently working in MERN Stack, in my free time i sync my self with *Competetive Programming*.
+I am 18 year old JavaScript Developer, huge fan of *SpaceX*, *High Energy Physics* and *Machine Learning* exhaust. 
+
+I am currently working in MERN Stack, in my free time i sync my self with *Competetive Programming*.
 
 ## Featured Skills,
 
