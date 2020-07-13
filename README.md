@@ -29,7 +29,7 @@
 <br />
 
 
-Hi, Hemant Joshi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack developer from India.
+### Hi, Hemant Joshi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack developer from India.
 <br />
 
 <br />
@@ -41,17 +41,17 @@ Hi, Hemant Joshi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack develope
 <code> <img height="20" width="20" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 -->
-- 🔭 SpaceX FanBoi, 
+#### - 🔭 SpaceX FanBoi, 
 
-- 🛸 Into Hight Energy Physics and Astrophysics
+#### - 🛸 Into Hight Energy Physics and Astrophysics
 
-- 💬 Connect? [Here](https://twitter.com/8bithemant)
+#### - 💬 Connect? [Here](https://twitter.com/8bithemant)
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
 
-Hii, 🙏
+**Hii, 🙏**
 
-Are you fine?😼
+**Are you fine?😼**
 
  <br />
 
