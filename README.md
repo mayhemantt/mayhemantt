@@ -44,6 +44,9 @@ Hi, Hemant Joshi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack develope
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
 
+Hii, 🙏
+
+Are you fine?😼
 
  <br />
 
