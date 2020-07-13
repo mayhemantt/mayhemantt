@@ -46,7 +46,7 @@
 
 #### - 💬 Connect? [Here](https://twitter.com/8bithemant)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
+<img align="right" height="400px" width="400px" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
 
 **Hii, 🙏**
 
