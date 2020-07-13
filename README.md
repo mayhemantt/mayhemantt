@@ -29,14 +29,35 @@
 <br />
 
 
-Hi, I'm Hemant Joshi, a Full Stack Developer 🚀 from India and curretnly 18 Years old, and working on MERN stack as my development stack. Currently i am building Occlude. 
+Hi, Hemant Joshi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack developer from India.
+<br />
+
+<br />
+
+- 🥀 Learning GraphQl, NextJs & Typescript
+
+- 🔭 SpaceX FanBoi, 
+
+- 🛸 Into Hight Energy Physics and Astrophysics
+
+- 💬 Connect? [Here](https://twitter.com/8bithemant)
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
 
 
-< br />
-
-I enjoy to code and into competetive programming.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
+ <br />
 
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<br />
+
+<!--
+[![Hemants github stats](https://github-readme-stats.8bithemant.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/8bithemant/github-readme-stats) -->
   
