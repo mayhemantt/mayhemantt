@@ -35,22 +35,18 @@
 <br />
 
 #### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="20" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> & Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
-<!--
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code> <img height="20" width="20" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
--->
+
 #### - 🔭 SpaceX FanBoi, 
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
 #### - 💬 Connect? [Here](https://twitter.com/8bithemant)
 
-<img align="right" height="400px" width="400px" alt="GIF" src="https://media.giphy.com/media/l0MYNB04rBb51QNtC/giphy.gif" />
+<img align="right" height="350px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 
-**Hii, 🙏**
+**Into , 🙏**
 
-**Are you fine?😼**
+**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
 
  <br />
 
