@@ -66,5 +66,5 @@
 <!--
 [![Hemants github stats](https://github-readme-stats.8bithemant.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/8bithemant/github-readme-stats) -->
 
-![Hemant Joshi Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
