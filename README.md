@@ -61,14 +61,18 @@
 ### - Languages and Tools...
 
 
-
-![](/svg/dev/frameworks/react.svg) ![](/svg/dev/frameworks/vue.svg)  
-
+ ![](/svg/dev/languages/html.svg) ![](/svg/dev/languages/csharp.svg) ![](/svg/dev/languages/js.svg) ![](/svg/dev/languages/python.svg)
+![](/svg/dev/frameworks/react.svg) ![](/svg/dev/frameworks/vue.svg)  ![](/svg/dev/misc/chrome.svg)  ![](/svg/dev/misc/cloud.svg) ![](/svg/dev/misc/datascience.svg) ![](/svg/dev/services/aws.svg) ![](/svg/dev/services/npm.svg) ![](/svg/dev/services/gcp.svg)  ![](/svg/dev/tools/bash.svg) ![](/svg/dev/tools/bash.svg) ![](/svg/dev/tools/visualstudio_code.svg) 
 
 
 
 ### - Blogs
-![](/svg/blogs/devto.svg)
+
+<a href="#">
+<img src="/svg/blogs/devto.svg" alt="dev.to" style="vertical-align:top; margin:6px 4px> </a>
+
+
+###
 
 
 
