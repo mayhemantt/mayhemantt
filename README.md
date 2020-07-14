@@ -43,7 +43,7 @@
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
-#### - 💬 Connect? Here [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
 
 <br />
@@ -70,13 +70,13 @@
 
 </p>
 
-### - Blogs
+### - Blogs 🌱
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
 </p>
 
-### - Podcast 
+### - Podcast ⚡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
@@ -84,7 +84,7 @@
 
 ***********************************
 
-#### Thank You-
+#### Thank You-🙏🏼
 
 
 
