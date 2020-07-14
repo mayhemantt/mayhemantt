@@ -30,8 +30,6 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
-
-
 ### Hi 🙋‍♂️, I'm 18 years old Self-taught Full-Stack developer from India.
 
 
