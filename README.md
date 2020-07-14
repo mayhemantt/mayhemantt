@@ -1,4 +1,4 @@
-### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img  alt="Hemant Joshi| Twitter" src="/svg/pronouns/hehim.svg" />
+### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
