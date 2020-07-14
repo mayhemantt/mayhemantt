@@ -40,27 +40,37 @@
 
 #### - 🛸 Into Hight Energy Physics and Astrophysics
 
-#### - 💬 Connect? [Here](https://twitter.com/8bithemant)
+#### - 💬 Connect? [![Here](/svg/social/twitter.svg)](http://twitter.com/8bithemant/)
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 
-**Into , 🙏**
+**I am Into , 🙏**
 
 **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+<br />
 
- <br />
 
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
 
-<!--
-[![Hemants github stats](https://github-readme-stats.8bithemant.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/8bithemant/github-readme-stats) -->
+*************
 
-![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br />
+
+### - Languages and Tools...
+
+
+
+![](/svg/dev/frameworks/react.svg) ![](/svg/dev/frameworks/vue.svg)  
+
+
+
+
+### - Blogs
+![](/svg/blogs/devto.svg)
+
+
+
+
   
