@@ -42,7 +42,7 @@
 
 #### - 🔭 SpaceX FanBoi, 
 
-#### - 🛸 Into Hight Energy Physics and Astrophysics
+#### - 🛸 Into High Energy Physics and Astrophysics
 
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
