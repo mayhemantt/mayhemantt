@@ -2,6 +2,10 @@
 
 ### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  ![](https://pronoun.cyou/x/y?subject=He&object=Him&height=20)
 
+<p align="center">
+  <h3> Full Stack | System Design | Micro Services | Competetive Programming | Machine Learning   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+  </p>
+
 
 <br/>
 <a href="https://twitter.com/8bithemant">
