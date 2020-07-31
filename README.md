@@ -51,13 +51,13 @@
 #### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
 
-<br />
 
-
+<!--
 **I am Into , 🙏**
+-->
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
+<!-- **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+<br /> -->
 
 
 <p align="center" >
