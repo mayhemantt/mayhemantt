@@ -32,7 +32,7 @@
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant) -->
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <br />
 
 <p align="center">
