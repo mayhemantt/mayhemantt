@@ -4,6 +4,9 @@
    Full Stack | System Design | Micro Services | Competetive Programming | Machine Learning   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </p>
 <p align="center">
+   <a href="https://twitter.com/8bithemant"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@8bithemant"></a>
+   </p>
+<p align="center">
   <a href="https://twitter.com/8bithemant">
     <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
