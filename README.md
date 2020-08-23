@@ -30,14 +30,21 @@
   <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+ - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+   
+ - 🔭 SpaceX FanBoi, Vanilla in Space😼
 
- - 🔭 SpaceX FanBoi, 
-    - Vanilla Js in Space😼
+ - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ 
+ - I do ReactJS and JavaScript with *Redux - Context - Hooks* and a lot of love :heart:
+ 
+ - MERN stack Developer
+ 
+ <p align="center">
+  <h4> System Design | Web Development | Micro Services | Competetive Programming | Machine Learning </h4>
+   </p>
 
- - 🛸 Into High Energy Physics and Astrophysics
-
- - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
 <!--
 **I am Into , 🙏**
