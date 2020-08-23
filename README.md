@@ -15,13 +15,11 @@
  </p>
 
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👩🏻 Hemant Joshi | 👩🏻‍💻 Full Stack Developer | 🌏 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 
-
-<p align="center">
-   
-   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack | System Design | Micro Services | Competetive Programming | Machine Learning   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p>
 <p align="center">
    <a href="https://twitter.com/8bithemant"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@8bithemant"></a>
    
