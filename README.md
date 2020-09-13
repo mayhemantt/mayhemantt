@@ -99,9 +99,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
 
-<p align="center">
-   
-   <h4>✨✨✨✨✨✨✨✨✨✨✨✨✨Thank You-🙏🏼✨✨✨✨✨✨✨✨✨✨✨✨✨</h4>
-   
-</p>
+
+
+<h1 align='center'><i>Stay awesome!</i></h1>
 
