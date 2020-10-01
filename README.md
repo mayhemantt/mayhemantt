@@ -48,9 +48,6 @@
 
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
 
-<!--
-**I am Into , 🙏**
--->
 
 
 <p align="center" >
