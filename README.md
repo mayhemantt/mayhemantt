@@ -52,9 +52,6 @@
 **I am Into , 🙏**
 -->
 
-<!-- **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br /> -->
-
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
