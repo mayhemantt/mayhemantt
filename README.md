@@ -43,7 +43,7 @@
  - MERN stack Developer
  
  <p align="center">
-  <h4> System Design | Web Development | Micro Services | Competetive Programming | Machine Learning </h4>
+  <h4> System Design | Web Development | Micro Services | Competitive Programming | Machine Learning </h4>
    </p>
 
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
