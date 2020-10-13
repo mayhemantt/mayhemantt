@@ -20,7 +20,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/8bithemant"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/8bithemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@8bithemant"></a>
+   <a href="https://twitter.com/mayhemant"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mayhemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@mayhemant"></a>
  </p>
  
  
