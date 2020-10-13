@@ -46,7 +46,7 @@
   <h4> System Design | Web Development | Micro Services | Competitive Programming | Machine Learning </h4>
    </p>
 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/8bithemant/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/mayhemant/)
 
 <!--
 **I am Into , 🙏**
@@ -58,7 +58,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=8bithemant&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=mayhemant&&show_icons=true&theme=radical"/>
   </a>
 <!--    <a href="https://github.com/piyushsuthar/github-readme-quotes">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
