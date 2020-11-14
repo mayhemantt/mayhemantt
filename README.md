@@ -20,7 +20,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/mayhemant"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mayhemant?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@mayhemant"></a>
+   <a href="https://twitter.com/born_may"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@born_may"></a>
  </p>
  
  
@@ -46,7 +46,7 @@
   <h4> System Design | Web Development | Micro Services | Competitive Programming | Machine Learning </h4>
    </p>
 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/mayhemant/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/born_may/)
 
 <!--
 **I am Into , 🙏**
