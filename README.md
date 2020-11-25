@@ -46,7 +46,7 @@
   <h4> System Design | Web Development | Micro Services | Competitive Programming | Machine Learning </h4>
    </p>
 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/born_may/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
 
 <!--
 **I am Into , 🙏**
