@@ -49,21 +49,14 @@
 
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
 
-<!--
-**I am Into , 🙏**
--->
 
-<!-- **Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
-<br /> -->
 
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=mayhemant&&show_icons=true&theme=radical"/>
   </a>
-<!--    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-   </a> -->
+
 </p>
 
 <br />
@@ -104,5 +97,5 @@
 
 
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
