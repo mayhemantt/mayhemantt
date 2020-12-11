@@ -24,9 +24,9 @@
    <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
  </p>
  
- <p align="center">
-   <i>I don’t trust people who don’t write SQL queries in uppercase</i>
-  </p>
+ <h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+  </h5>
  
  
 <br />
