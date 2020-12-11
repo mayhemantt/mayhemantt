@@ -47,14 +47,16 @@
  
  - Graphql Exhaust
  
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
+ 
  <p align="center">
   <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
    </p>
 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
 
 
 
+<!--  -->
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
@@ -85,13 +87,16 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+<!--
 ### - Blogs 🌱
-
+-->
+<!--
 <p align="center">
   <a href="https://dev.to/hemant">
     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
   </a>
 </p>
+-->
 
 ### - Podcast ⚡️
 
@@ -100,6 +105,16 @@
 </p>
 
 
+ ### - What i do
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
