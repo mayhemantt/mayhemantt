@@ -35,22 +35,22 @@
   <h3> I'm 18 years old Self-taught Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning GraphQl NextJs  & Typescript
+ - 🥀 Learning Swift & Objective_C
  
  - <i>with Javascript, Typescript, React and 69 others.</i>
    
- - 🔭 SpaceX FanBoi, Vanilla in Space😼
+ - 🔭 SpaceX FanBoi, die for space😼
 
  - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
  
- - I do ReactJS and Typescript with *Redux Caching* and a lot of love :heart:
+ - I do fullstack and much of every thing :heart:
  
- - Graphql Exhaust
+ - All About living life at its best.
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
-  <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Full Stack | Typescript | Competitive Programming </h4>
    </p>
 
 
