@@ -20,7 +20,7 @@
 
 
 <p align="center">
-   <a href="https://twitter.com/_born_may"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_born_may"></a>
+   <a href="https://twitter.com/_hemant_joshi"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/_born_may?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@_hemant_joshi"></a>
    <a href="https://badges.pufler.dev/visits/bornmay/bornmay"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/bornmay/bornmay"> </a>
  </p>
  
@@ -47,7 +47,7 @@
  
  - Graphql Exhaust
  
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_born_may/)
+ - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
   <h4> SQL | Full Stack | Typescript | Competitive Programming </h4>
