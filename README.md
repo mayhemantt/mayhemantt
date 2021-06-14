@@ -41,7 +41,7 @@
    
  - 🔭 SpaceX FanBoi, die for space😼
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+ - 🛸 Into High Energy Physics and Astrophysics, I love shooting stars too.
  
  - I do fullstack and much of every thing :heart:
  
