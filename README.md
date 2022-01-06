@@ -98,12 +98,6 @@
 </p>
 -->
 
-### - Podcast ⚡️
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
 
  ### - What i do
 
