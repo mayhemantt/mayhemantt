@@ -35,7 +35,7 @@
 <br />
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
 <p align="center">
-  <h3> I'm 21 years old Self-taught Full-Stack developer from India.</h3>
+  <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
  - 🥀 Learning Swift & Objective_C
@@ -53,7 +53,7 @@
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
  
  <p align="center">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
+  <h4> Full Stack | Competitive Programming </h4>
    </p>
 
 <!--  -->
